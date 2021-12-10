@@ -1,0 +1,203 @@
+{
+  "post": [
+    {
+      "name": "Zahra",
+      "surname": "Huseynova",
+      "email": "zahra.huseynova@gmail.com",
+      "phone": "168998",
+      "order": "15",
+      "id": 1
+    },
+    {
+      "name": "Zara",
+      "surname": "Quseynova",
+      "email": "zahra.huseynova@gmail.com",
+      "phone": "18",
+      "order": "13",
+      "id": 2
+    },
+    {
+      "name": "Jim",
+      "surname": "Morrise",
+      "email": "JMorris@act.com",
+      "phone": "0506984756",
+      "order": "5",
+      "id": 3
+    },
+    {
+      "name": "Jack",
+      "surname": "Morrison",
+      "email": "JMorrison@act.com",
+      "order": "5",
+      "phone": "648325",
+      "id": 4
+    },
+    {
+      "name": "sara",
+      "surname": "Bale",
+      "email": "kdja@kdl.com",
+      "phone": "546",
+      "order": "56",
+      "userId": "109232611272471206484",
+      "id": 6
+    }
+  ],
+  "animals": [
+    {
+      "id": 0,
+      "category": "dog",
+      "name": "Bellini",
+      "image": "../Assets/bellini.jpg",
+      "description": "Bellini is a very good boy in New York..",
+      "status": "Availabe",
+      "join": "Joined in 2013",
+      "friends": "75 Friends",
+      "sex":"male",
+      "age":"5 months",
+      "color":"brown"
+    },
+    {
+      "id": 1,
+      "category": "dog",
+      "name": "Chester",
+      "image": "../Assets/Ches.jpg",
+      "description": "Chester is a very good boy in New York..",
+      "status": "Availabe",
+      "join": "Joined in 2015",
+      "friends": "90 Friends",
+      "sex":"male",
+      "age":"6 months",
+      "color":"brown"
+    },
+    {
+      "id": 2,
+      "category": "dog",
+      "name": "Dark",
+      "image": "../Assets/Dark.jpg",
+      "description": "Dark is a very good boy in New York..",
+      "status": "Availabe",
+      "join": "Joined in 2018",
+      "friends": "55 Friends",
+      "sex":"male",
+      "age":"8 months",
+      "color":"black"
+    },
+    {
+      "id": 3,
+      "category": "dog",
+      "name": "Fibi",
+      "image": "../Assets/Fibi.jpg",
+      "description": "Fibi is a very good boy in New York..",
+      "status": "Availabe",
+      "join": "Joined in 2017",
+      "friends": "38 Friends",
+      "sex":"female",
+      "age":"7 months",
+      "color":"black&white"
+    },
+    {
+      "id": 4,
+      "category": "dog",
+      "name": "May",
+      "image": "../Assets/May.jpg",
+      "description": "May is a very good boy in New York..",
+      "status": "Availabe",
+      "join": "Joined in 2008",
+      "friends": "42 Friends",
+      "sex":"male",
+      "age":"6 months",
+      "color":"white spotted"
+    },
+    {
+      "id": 5,
+      "category": "dog",
+      "name": "Pitty",
+      "image": "../Assets/Pitty.jpg",
+      "description": "Pitty is a very good boy in New York..",
+      "status": "Availabe",
+      "join": "Joined in 2012",
+      "friends": "61 Friends",
+      "sex":"female",
+      "age":"3 months",
+      "color":"brown"
+    },
+    {
+      "id": 6,
+      "category": "cat",
+      "name": "Cream",
+      "image": "../Assets/Cream.jpg",
+      "description": "Cream is a very good boy in New York..",
+      "status": "Availabe",
+      "join": "Joined in 2015",
+      "friends": "79 Friends",
+      "sex":"female",
+      "age":"3 months",
+      "color":"black&white"
+    },
+    {
+      "id": 7,
+      "category": "cat",
+      "name": "Eary",
+      "image": "../Assets/Eary.jpg",
+      "description": "Eary is a very good boy in New York..",
+      "status": "Availabe",
+      "join": "Joined in 2016",
+      "friends": "83 Friends",
+      "sex":"male",
+      "age":"9 months",
+      "color":"brown"
+    },
+    {
+      "id": 8,
+      "category": "cat",
+      "name": "Ginger",
+      "image": "../Assets/Ginger.jpg",
+      "description": "Ginger is a very good boy in New York..",
+      "status": "Availabe",
+      "join": "Joined in 2011",
+      "friends": "55 Friends",
+      "sex":"male",
+      "age":"5 months",
+      "color":"orange"
+    },
+    {
+      "id": 9,
+      "category": "cat",
+      "name": "Polly",
+      "image": "../Assets/Polly.jpg",
+      "description": "Polly is a very good boy in New York..",
+      "status": "Availabe",
+      "join": "Joined in 2014",
+      "friends": "69 Friends",
+      "sex":"female",
+      "age":"4 months",
+      "color":"black&white"
+    },
+    {
+      "id": 10,
+      "category": "cat",
+      "name": "Puma",
+      "image": "../Assets/Puma.jpg",
+      "description": "Puma is a very good boy in New York..",
+      "status": "Availabe",
+      "join": "Joined in 2020",
+      "friends": "28 Friends",
+      "sex":"male",
+      "age":"3 months",
+      "color":"black"
+    },
+    {
+      "id": 11,
+      "category": "cat",
+      "name": "Spotted",
+      "image": "../Assets/Spotted.jpg",
+      "description": "Spotted is a very good boy in New York..",
+      "status": "Availabe",
+      "join": "Joined in 2021",
+      "friends": "57 Friends",
+      "sex":"male",
+      "age":"5 months",
+      "color":"black spotted"
+    }
+  ]
+}
